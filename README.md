@@ -7,7 +7,7 @@ This is an program which lets you perform matrix calculation. My matrix calculat
 I created this using C.
 
 ## Screenshots
-
+![Screenshot 1](/screenshots/screenshot1.png?raw=true)
 
 
 ## License
