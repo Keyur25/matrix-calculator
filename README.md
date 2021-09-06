@@ -8,7 +8,9 @@ I created this using C.
 
 ## Screenshots
 ![Screenshot 1](/screenshots/Screenshot1.png?raw=true)
-
+![Screenshot 2](/screenshots/Screenshot2.png?raw=true)
+![Screenshot 3](/screenshots/Screenshot3.png?raw=true)
+![Screenshot 4](/screenshots/Screenshot4.png?raw=true)
 
 ## License
 
